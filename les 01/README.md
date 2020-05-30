@@ -16,7 +16,7 @@ lorem ipsum hjftftghhv
 yghjbj
 jjn
 
-![github desktop](appletree.jpeg)
+![github desktop](appletree.JPG)
 
 
 
