@@ -6,4 +6,4 @@ Gedaan
 2. repository aangemaakt
 3. github desktop op de PC
 
-![github dektop](gitdesktop.png)
+![github dektop](gitdesktop.PNG)
