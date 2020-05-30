@@ -7,7 +7,7 @@ Gedaan
 3. github desktop op de PC
 
 ![github desktop](gitdesktop.PNG)
-# Les 02 2D design
+## Les 02 2D design
 
 1. werken in inkscape
 2. eerste oefening apple tree 
