@@ -12,8 +12,11 @@ Gedaan
 
 1. werken in inkscape
 2. eerste oefening 
+lorem ipsum hjftftghhv
+yghjbj
+jjn
 
-![github desktop](../les 02/appletree.jpg)
+![github desktop](../les 02/appletree.jpeg)
 
 
 
