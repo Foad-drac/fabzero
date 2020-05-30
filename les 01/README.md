@@ -13,7 +13,7 @@ Gedaan
 1. werken in inkscape
 2. eerste oefening 
 
-![github desktop](../appletree.PNG)
+![github desktop](../les 02/appletree.PNG)
 
 
 
