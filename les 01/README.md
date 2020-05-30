@@ -11,7 +11,9 @@ Gedaan
 ## Les 02 2D design
 
 1. werken in inkscape
-2. eerste oefening apple tree 
+2. eerste oefening 
 
 ![github desktop](appletree.PNG)
+
+
 
